@@ -30,4 +30,8 @@ O Objetivo desta atividade é desenvolver um conversor de um JSON para CSV, para
 - [MDN Javascript Object](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Object)
 - [JSON // Dicionário do Programador](https://www.youtube.com/watch?v=P81dE-tkaaA)
 - [Aprenda JSON em 20 minutos](https://www.youtube.com/watch?v=BWPUSXzSWA8)
+
+
+---
+Feito com carinho, boa sorte! :purple_heart:
   
